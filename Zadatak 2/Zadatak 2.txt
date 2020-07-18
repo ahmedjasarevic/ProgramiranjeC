@@ -1,0 +1,10 @@
+Zadatak 2
+Napisati program koji uèitava tri cijela broja iz intervala od 50 do 200. Ako svi uneseni brojevi nisu
+iz tog intervala, program treba ispisati poruku
+ Svi brojevi nisu iz intervala 50 do 200
+i završiti s radom. Ako su brojevi unutar tog intervala program treba ispisati uèitane brojeve po
+velièini od najmanjeg prema najveæem, te odrediti koliko razlièitih brojeva je uneseno.
+Primjer ulaza i izlaza:
+ Unesite tri broja: 150 100 150
+ Brojevi poredani po velicini glase: 100,150,150
+ Unesena su 2 razlicita broja 
