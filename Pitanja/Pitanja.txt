@@ -1,0 +1,12 @@
+1.Funkcija je skup naredbi koje zajedno vrse neku akciju.Programiramo pomocu funkcija jer one umanjuju mogucnost pravljenja gresaka,i mogu se pozvati neogranicen broj puta.
+2.Uzrok greske je sto program ne sadrzi main funkciju
+3.Samo jedna vrijednost se moze vratiti iz funkcije
+4.Ukoliko zelimo pisati funkcije nakon main funkcije,onda moramo najaviti tu funkcija.A najava funkcije se zove prototip funkcije
+5.Funkcije koje ne vracaju nista se zovu procedure ili potprogrami.Kada nam je potrebna funkcija koja ce obaviti neki posao,ali nam tada rezultat nije potreban koristimo ovu funkciju.
+6.Oznacamo je sa int nazivFunkcije (void) -Dodali smo u zagradu "void",te tada funkcija sigurno ne prihvata parametre
+7.Kada 2 promjenjive nisu iste promjenjive i kada mijenjamo jednu promjenjivu to ne mijenja drugu promjenjivu-Ovakav poziv funkcije je poziv po vrijednosti.
+Kada funkcija indirektno promijeni vrijednost neke promjenjive iz druge funkcije,i to se naziva poziv po referenci.
+8.Globalna promjenjiva je promjenjiva koja je deklarisana na nivou datoteke i kojoj sve funkcije u programo mogu pristupiti.
+Staticka promjenjiva je globalna promjenjiva koja je dostupna samo u bloku koda u kojem je napisana
+9.Da bi proslijedili niz,moramo samo navesti ime niza kao prvi parametar funckije,a logicku velicinu niza kao drugi parametar.
+10.Rekurzivna funkcija je funkcija koja poziva sama sebe.

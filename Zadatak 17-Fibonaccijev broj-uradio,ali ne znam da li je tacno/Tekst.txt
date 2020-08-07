@@ -1,0 +1,1 @@
+Napisati funkciju "fibonacci" koja prihvata broj n i vraaca n-ti Fibonaccijev broj.
