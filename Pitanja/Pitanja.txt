@@ -1,0 +1,8 @@
+1."*" je operator za dereferenciranje, a "&" je za referenciranje.
+2.int* a,b,c; -Samo je prva promjenjiva(a) pokazivac,a b i c su obicne promjenjive.
+3.Nul-pokazivac je pokazivac koji sadrzi vrijednost 0 i ne pokazuje ni na sta.Razlog koristenja ovog pokazivaca je kako bi se osiguralo da je pokazivacka promjenjiva inicijalizovana.
+4.Ne smijemo dereferencirati neinicijalizirane pokazivace, kao ni pokazivace koji pokazuju na memoriju koja ne pripada nasem programu i to dovodi do nedefinisanog ponasanja.
+5.Pomocu pokazivaca funkcija moze da promijeni vrijednost proslijedenog argumenta.I na taj nacin se postize trik pomocu kojeg vracamo vise vrijednosti
+6.Operacije koje ima smisla vrsiti nnad pokazivacima su:pok+n,pok-n,pok += n,pok -=n;pok++ ili ++pok,pok-- ili --pok,p2-p1
+7.Ispisati ce se niz[2] odnosno 3. element niza.Zbog toga sto je sabiranje komutativno,to dovodi do: niz[3] je isto sto i 3[niz]
+8.Kada vracamo pokazivace na parametre.
