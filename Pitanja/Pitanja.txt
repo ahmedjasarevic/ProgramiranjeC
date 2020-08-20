@@ -1,0 +1,9 @@
+1.String (literal) oznacavamo dvostrukim navodnicima
+2.char p[3]={'a','b','c'}; -Validan niz tipa char ali ne i validan string
+3.const char* ime = "Alen"; -Literali se ne mogu mjenjati,pa svaki pokusaj da promijenimo string ime mogao bi dovesti do krahiranja programa.Zato moramo dodati kljucnu rijec const
+4.scanf("%s", ime); -ali nije preporucljiva
+5.Programi koji rade sa stringovima prakticno uvijek korsite poakzivacku aritmetiku jer se time dobija pregledniji kod.
+6.u ASCII tabeli razlika velikog i malog slova je tacno 32.Ako zelimo od velikog dobiti malo slovo saberemo 32,a ako od malog zelimo dobiti veliko oduzmemo sa 32.
+7.Da bismo pretvorili cijeli broj int u string treba nam petlja koja rastavlja broj na cifre,pri cemu svaku cifru treba pretvoriti u odgovarajuci karakter.Ako zelimo string u int,kada u stringu naidemo na znak cifre,konvertujemo sve cifre od tog mjesta do psljednje cifre u int,a zatim takav int poredimo sa primljenim
+8.Na pocetak glavne petlje dodamo jednu pomocnu petlju koja preskace sve razmake i na taj nacin osigurava da p uvijek pokazuje na pocetak rijeci.
+9.

@@ -1,0 +1,1 @@
+Modificirajte funciju uporedi sa str. 273 tako da ima jos jedan parametar tipa int.Ako taj parametar ima vrijednost razlicitu od nule , funkcija prilikom poredenja dva stringa treba zanemariti razliku izmedu velikih i malih slova

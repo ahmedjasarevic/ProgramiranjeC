@@ -1,0 +1,1 @@
+Napisati funkciju koja string zamjenjuje prvom riejci u stringu.Npr ako je dat string: "danas je lijep dan",funkcija ga treba pretvoriti u danas".Funckija koja vraca broj rijeci u prolaznom stringu,dakle u navedenom primjeru funcjija treba vratiti broj 4.

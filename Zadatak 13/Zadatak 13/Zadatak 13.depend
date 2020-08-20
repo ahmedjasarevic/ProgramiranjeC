@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1597833132 source:c:\users\ahmed\desktop\stringovi\zadatak 13\zadatak 13\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
