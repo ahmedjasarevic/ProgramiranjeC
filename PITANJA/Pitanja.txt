@@ -1,0 +1,25 @@
+1.typedef sluzi kako bismo dali drugacije ime nekom postojecem tipu podataka radi bolje citljivosti koda
+2.enum boja {Crvena, Plava, Bijela, Crna, Smedja};
+printf("%d", Crna); - ispisati ce se 3(jer im se dodjeluju vrijednosti 0,1,2...
+3.Uz pomoc switch-case npr.
+switch (boja){
+case 0;
+printf("Crvena");
+break;
+case 1;
+printf("Plava");
+break;
+...
+ili ako deklarisemo niz sa imenima
+enum Boja {Crvena, Plava, Bijela, Crna, Smedja};
+char imena_boja [6][5] = {"Crvena", "Plava", "Bijela", "Crna", "Smedja"};
+enum Boja boja= Crvena;
+printf("%s", imena_boja[boja]);
+4.Biti ce zauzeto 12 bajt
+5.Imenovanje strukturnih tipova pomocu typedef omogucuje nam da u kasnijim deklaracijama promjenjivih ne moramo svaki put ponavljati kljucnu rijec struct.
+6.Definisemo strukturu koja sadrzi sve sto zelimo da vratimo iz funkcije i zatim vratimo promjenjivu tog strukturnog tipa
+7.scanf("%d", &s.datum_rodjenja.dan);
+8.Pokazivac na strukturu je uz pomoc operatora ->
+9.Uz pomoc bitpolja mozemo definisati cjelobrojne tipove promjenjivih cija je velicina proizvoljna.
+Primjena bitpolja je da kreiramo strukture koje zauzimaju vrlo malo kolicinu memorije,a sadrze veci broj elemenata koji su upakvoani u manji prostor.
+10.Unija se ponasa kao i struktura,ali uz jednu razliku svi clanovi unije zauzimaju istu memorijsku lokaciju 
