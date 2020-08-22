@@ -1,0 +1,2 @@
+
+Prepravite prethodni program tako da odreduje koliko sati,minuta,sekundi je proteklo izmedu dva vremena-Funkcija treba da vraca struct Vrijeme.
