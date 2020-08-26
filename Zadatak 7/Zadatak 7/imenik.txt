@@ -1,0 +1,3 @@
+Ime  = dasasd
+Prezime  = asdads
+br_tel  = 23123123

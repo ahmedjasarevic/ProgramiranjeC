@@ -1,0 +1,1 @@
+Napisite program koji cita tekstualnu datoteku i na nkranu ispisuje: broj redova u datoteci,broj rijeci(rijeci odvojene jednim ili  vise razmaka ),broj znakova,broj samoglasnka,broj cifara.

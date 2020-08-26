@@ -1,0 +1,4 @@
+Data je datoteka ispiti.txt ciji redovi imaju strukturu brindexa predmet ocjena,gdje brindexa predstavlja broj indeksa stundetan koji je polaghao ispit,predmet je broj koji oznacava iz  kojeg je upisana ocjena,a ocjena je konacna ocjena koju je student osvojio,Primjer datoteke:
+12345 3 10
+12345 4 9
+Prvi red oznacava da je student sa brojem indexa 12345 iz peredmeta broj 3(NPR. Osnove Racunarstva) dobio ocjen u 10.Ako ej isti student polozio vise predmeta,jednostavno se dodaje jos jedan red sa istim brojem indeksa,ali drugim predmetom.Kreirajte ovu datoteku i napunite je nekim testnim podacima.Zatim napravite program koji na ulazu trazi broj predmeta a ispisuje prosjecnu ocjenu i prolaznost

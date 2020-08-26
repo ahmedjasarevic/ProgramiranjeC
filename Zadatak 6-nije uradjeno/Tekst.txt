@@ -1,0 +1,1 @@
+Dopunite prethodni zadatak tako da korsnik umejsto broja moze da unese tekstualni naziv predmeta.Da biste to postigli,napravite datoteku pod nazivom "predmeti.txt" koja sadrzi imena predmeta zajedno sa brojevima.Kada korsnik unese naziv predmeta,najprije se provjerava da li predmet postoji u datoteci.Ako ne postoji,ispisuje se greska.

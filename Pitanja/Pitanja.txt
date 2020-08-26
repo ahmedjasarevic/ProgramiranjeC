@@ -1,0 +1,11 @@
+1.Oznacamo eksternu memoriju pocetnim slovom C
+2.Codeblocks\bin\gcc.exe je relativna putanja
+3.Separator je slash /
+4.Funckija fopen ce vratiti null pokazivac ,u slucaju da otvaranje datoteke nije uspjelo
+5.r+-read.wirite,rezim za citanje i pisanje,datoteka mora postojati,kursor za citanje i pisanje je postavljen na pocetak
+6.Pomocu fseek funkcije. int fseek (FILE* datoteka, long int offset, int SEEK_SET -seek-set oznaca pocetak datoteke.
+7.Zato jer osim dozvoljenih 256 vrijednosti ,funkcija moze vratiti specijalnu vrijednost EOF koja oznacava kraj datoteke .EOF mora bitit negativan cijeli broj
+8.Umjest EOF mozemo koristiti feof.Ova funckija prima pokazivac na datoteku,a vraca logicku vrijednost 0 ako nismo na kraju a 1 ako jesmo
+9.fscanf se ponasa slicno kao scanf,s tim da podaci se citaju iz datoteke umjesto standarnog ulaza
+10.OSNOvne prednosti binarnih datoteka su manje zauzece prostora na disku i brzi rad.Rad sa binarnim datoekama je brzi,jer se podaci prilikom citanja i pisanja direktno kopiraju sa diska u memoriju i obrnuto.Binarne su vezane za platformu na kojoj su nastale,njihovo citanje na drugim platformama je otezano i to je nedostatak.Tekstualna se moze otvoriti u bilo kojem editoru.
+11.fread prvi parametar je na neki slobodan blok memorije u kjji cemo ucitati podatke iz datoteke.Tipa je void* sto znaci da fread ne interesuje kojeg tipa je taj pokazivac
