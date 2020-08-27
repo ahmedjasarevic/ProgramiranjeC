@@ -1,0 +1,6 @@
+d) (1 bod) Napišite blok naredbi koji na ekranu
+ispisuje sve neparne brojeve izmeðu 1 i 100.
+Savjet: U pitanju su 2­3 linije koda
+for (i=1; i<100; i++){
+if(i % 2 != 0)
+printf("%d",i);}

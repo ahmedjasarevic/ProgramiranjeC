@@ -1,0 +1,38 @@
+a) (1 bod)
+    int a=8, b=3;
+    switch (a%b) {
+        case 2:
+            printf("AA");
+        case 1:
+            printf("AA"); 
+        default:
+            printf("AA"); break;
+    }
+IZLAZ:AAAAAA
+B) int i,t=1;
+    for (i=1; i<20; i++) {
+        if (i%4==0) continue;
+        t++;
+        if (i==8||i==12||i==16)
+            break;
+    }
+    printf ("t=%d",t);
+IZLAZ:16
+c) char a='C',b='A',c='B';
+    a=a+c;
+    c=a­b;
+    b=b+c­'C';
+    a=a­b;
+    printf ("a=%c,b=%d,c=%c",
+a,b,c);IZLAZ:a=C,b=67,c=B
+d)  int a=8, b=5;
+    do {
+        b*=2;
+    } while (++a<9);
+    b=b%a;
+    printf ("a=%d,b=%d",a,b);izlaz:a=9,b=10
+e)int a=10;
+    float s;
+    a+=a++;
+    s=a/2+1;
+    printf ("s=%.2f",s);IZLAZ:11.50

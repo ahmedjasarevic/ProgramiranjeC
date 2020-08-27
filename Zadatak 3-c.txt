@@ -1,0 +1,6 @@
+c) (1 bod) Napišite blok naredbi koji na ekranu
+ispisuje AAAAA (pet slova A) pomoæu petlje for.
+Savjet: U pitanju su 2 linije koda
+for(i=0; i<5; i++){
+printf("A\n");}
+

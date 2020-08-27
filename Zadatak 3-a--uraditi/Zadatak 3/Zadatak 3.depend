@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1598532246 source:c:\users\ahmed\desktop\prvi parcijalni ispit\zadatak 3-a\zadatak 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
