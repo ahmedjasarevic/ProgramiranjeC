@@ -1,0 +1,1 @@
+Napisati funckiju samoglasnici koja ce prebrojati broj samoglasnika u primljenom stringu.

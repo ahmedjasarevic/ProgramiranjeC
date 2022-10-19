@@ -1,0 +1,3 @@
+Napisite funkciju koja u primljenom stirngu sva mala slova pretvara u velika.Fumkcija treba da vraca poakzivac na pocetak istog stringa koji je proslijeden funkciji kao paramear.Ovo omogucuje da se funkcija poziva lancano,npr.
+char s[]= "Ovo je primjer";
+printf("%s", velika(s));

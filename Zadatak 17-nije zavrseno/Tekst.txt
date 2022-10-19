@@ -1,0 +1,1 @@
+Napisati funkciju koja u datom sstringu zamjenjuje sve whitespace znakove jednim razmakom.Dakle novi redovi(/n) i tabovi (/t) treabju biti zamjenuti razmacima.Takoder,ukoliko se javlja vise razmaka zaredom,treba ih zamijeniti jednim razmakom.Whitespace znakove na pocetku ili kraju stringa treba izbaciti.Ovo ukljucuje i kombinacije razmak-tab ili novi red-razmak itd.
