@@ -1,0 +1,6 @@
+Napiši program gdje korisnik unosi cijeli broj n i jednocifren broj a, i koji vraæa broj tako da
+mu se svaka druga cifra sa desna zamijeni sa vrijednosti a. Ukoliko vrijednost a nije
+jednocifrena, program ispisuje “0” i zavrsava. Primjer:
+Unesite broj n: 123456
+Unesite broj a: 9
+Izlaz: 929496 

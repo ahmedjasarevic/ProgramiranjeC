@@ -1,0 +1,5 @@
+Zadatak 1.1
+Napiši program koji trazi od korisnika da se unese cijeli broj i ispisuje ga u obrnutom
+redoslijedu. Primjer:
+Unesite broj: 356
+Izlaz: 653 

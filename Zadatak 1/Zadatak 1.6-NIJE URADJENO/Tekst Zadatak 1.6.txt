@@ -1,0 +1,4 @@
+Napiši program gdje korisnik unosi cijeli broj n, a zatim ispisuje taj broj tako da mu se
+svaka parna cifra uveæa za jedan a neparna umanji za jedan. Primjer:
+Unesite cijeli broj n: 123456
+Izlaz: 32547 

@@ -1,0 +1,4 @@
+Zadatak 1.8
+Napisati program gdje korisnik unosi realni broj n i ispisuje kao rezultat obrnut broj tako
+da se izvrši obrtanje cijelog i obrtanje decimalnog dijela. Na primjer, 123.456 › 321.654.
+Takodjer, prvobitni decimalni dio zaokružiti na 3 decimale.

@@ -1,0 +1,13 @@
+Napiši program gdje korisnik unosi realni broj n i vraæa kao rezultat taj realni broj samo su
+mu zamijenjeni decimalni i cijeli dio. Prvobitni decimalni dio zaokružiti na 3 decimale. Na
+primjer, ako korisnik unese broj “123.1567”, prvo treba zaokruziti broj na “123.156”,
+zamijeniti i ispisati “156.123”. Drugi primjer, ako korisnik unese “123.15”, zaokruziti
+“123.150”, zamijniti “150.123” i ispisati “150.123”. Primjer:
+Unesite realni broj n: 123.1567
+Izlaz: 156.123
+ili
+Unesite realni broj n: 123.15
+Izlaz: 150.123 
+
+q=(int)x;
+r=x-q;

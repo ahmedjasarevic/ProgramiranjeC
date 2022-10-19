@@ -1,0 +1,4 @@
+Napiši program gdje korisnik unosi cijeli broj, a kao rezultat vraæa sumu njegovih cifara.
+Primjer:
+Unesite broj: 234
+Izlaz: 9 

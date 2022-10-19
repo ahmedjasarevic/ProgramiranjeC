@@ -1,0 +1,3 @@
+Napiši program koji prima cijeli broj i koji ispisuje “1” ukoliko je broj palindrom (palindrom
+je kad se cita isto bez obzira sa koje strane se gleda, na primjer, broj “2002” je palindrom),
+a 0 ukoliko nije.

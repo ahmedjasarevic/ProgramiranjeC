@@ -1,0 +1,23 @@
+Zadatak 3
+Napisati program koji æe izraèunati presjek skupova S1 i S2. Skupovi S1 i S2 definisani su
+intervalima realnih brojeva:
+S1=[a, b]
+S2=[c, d].
+Na primjer, ako se za ulaz uzmu skupovi (prikazani na slici 1):
+S1=[3, 9]
+S2=[7, 11].
+program kao izlaz treba dati:
+Rezultantni interval je [7,9]
+Napomena:
+Slika 1 - Presjek dva skupa
+3
+Ahmed Jašareviæ 16. juli 2020
+Vaš program mora obraditi sve moguæe situacije (skupovi se ne sijeku, skup S1 je sadržan u skupu
+S2 i obratno itd.) Sljedeæi testni podaci sa rezultatima æe vam pomoæi da se uvjerite da je vaš
+program ispravan.
+ Unesite brojeve a,b,c,d: 3 7 9 11
+ Skupovi se ne sijeku.
+ Unesite brojeve a,b,c,d: 3 9 7 11
+ Rezultantni interval je [7,9].
+ Unesite brojeve a,b,c,d: 7 11 3 9
+ Rezultantni interval je [7,9]. 
