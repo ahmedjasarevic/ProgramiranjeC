@@ -1,0 +1,1 @@
+U istom primjeru dodati novu sturkturu struct Pravougaonik koja opisuje pravougaonik cije sus tranice paralelne kordinatnim osama.Zatim dodati funkcije za obim i povrsinu pravougaonika ,te funkciju koja provjerava da li se tacka nalazi u pravougaoniku

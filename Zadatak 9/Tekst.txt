@@ -1,0 +1,1 @@
+Data je struktura podatak struct Osoba. Napravite program koji sadrzi niz od 100 osoba te omogucuje unos osbe ili ispis do sada unesenih osoba
