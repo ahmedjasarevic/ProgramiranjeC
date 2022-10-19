@@ -1,0 +1,1 @@
+Napisati funkciju double stepen(double b,int e) koja vraca potenciju broja be bez koristenja funckije pow.Eksponent je cijeli broj koji olaksava zadatak,ali mzoe biti i negativan.Primjetite da ovakva funkcija nece imati probleme sa nepreciznoscu o kopjima smo govoril u poglavlju..

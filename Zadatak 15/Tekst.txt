@@ -1,0 +1,1 @@
+Napravite funkciju obrnut koja vraca primljeni pozitivan cijeli broj okrenut naopako.Npr. ako se funkcija pozova sa vrijednoscu 12345 treba vratiti broj 54321.Pri tome nije dozvoljeno koristiti nizove niti ispis u funkciji.Napravite i kraci program koji testira tu funkciju.

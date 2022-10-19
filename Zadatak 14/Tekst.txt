@@ -1,0 +1,1 @@
+Napravite funkciju int prost(int x) koja vraæa 1 (logièka istina) ako je broj x prost, a 0 (logièka neistina) ako x nije prost. Zatim iskoristite ovu funkciju u programu koji ispisuje sve proste brojeve izmeðu 1 i 100.
