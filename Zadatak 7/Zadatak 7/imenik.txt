@@ -1,0 +1,3 @@
+Ime  = Ahmeda
+Prezime  = Jasarevica
+br_tel  = 123
