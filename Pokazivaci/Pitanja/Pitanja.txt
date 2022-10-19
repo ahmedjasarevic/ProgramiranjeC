@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+1.String (literal) oznacavamo dvostrukim navodnicima
+2.char p[3]={'a','b','c'}; -Validan niz tipa char ali ne i validan string
+3.const char* ime = "Alen"; -Literali se ne mogu mjenjati,pa svaki pokusaj da promijenimo string ime mogao bi dovesti do krahiranja programa.Zato moramo dodati kljucnu rijec const
+4.scanf("%s", ime); -ali nije preporucljiva
+5.Programi koji rade sa stringovima prakticno uvijek korsite poakzivacku aritmetiku jer se time dobija pregledniji kod.
+6.u ASCII tabeli razlika velikog i malog slova je tacno 32.Ako zelimo od velikog dobiti malo slovo saberemo 32,a ako od malog zelimo dobiti veliko oduzmemo sa 32.
+7.Da bismo pretvorili cijeli broj int u string treba nam petlja koja rastavlja broj na cifre,pri cemu svaku cifru treba pretvoriti u odgovarajuci karakter.Ako zelimo string u int,kada u stringu naidemo na znak cifre,konvertujemo sve cifre od tog mjesta do psljednje cifre u int,a zatim takav int poredimo sa primljenim
+8.Na pocetak glavne petlje dodamo jednu pomocnu petlju koja preskace sve razmake i na taj nacin osigurava da p uvijek pokazuje na pocetak rijeci.
+9.
+=======
+1."*" je operator za dereferenciranje, a "&" je za referenciranje.
+2.int* a,b,c; -Samo je prva promjenjiva(a) pokazivac,a b i c su obicne promjenjive.
+3.Nul-pokazivac je pokazivac koji sadrzi vrijednost 0 i ne pokazuje ni na sta.Razlog koristenja ovog pokazivaca je kako bi se osiguralo da je pokazivacka promjenjiva inicijalizovana.
+4.Ne smijemo dereferencirati neinicijalizirane pokazivace, kao ni pokazivace koji pokazuju na memoriju koja ne pripada nasem programu i to dovodi do nedefinisanog ponasanja.
+5.Pomocu pokazivaca funkcija moze da promijeni vrijednost proslijedenog argumenta.I na taj nacin se postize trik pomocu kojeg vracamo vise vrijednosti
+6.Operacije koje ima smisla vrsiti nnad pokazivacima su:pok+n,pok-n,pok += n,pok -=n;pok++ ili ++pok,pok-- ili --pok,p2-p1
+7.Ispisati ce se niz[2] odnosno 3. element niza.Zbog toga sto je sabiranje komutativno,to dovodi do: niz[3] je isto sto i 3[niz]
+8.Kada vracamo pokazivace na parametre.
+>>>>>>> Pokazivaci/master

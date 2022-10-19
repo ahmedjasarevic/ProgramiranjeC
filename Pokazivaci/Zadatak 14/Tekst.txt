@@ -1,0 +1,1 @@
+Napisati funkciju drugi koja  u primljenom nizu cijelih brojeva pronalazi drugi po velicini i vraca pokazivac na taj clan.U slucaju da niz ne sadrzi drugi po velicini element funkcija treba vratiti nul pokazivac

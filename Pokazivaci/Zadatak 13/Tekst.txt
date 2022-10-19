@@ -1,0 +1,1 @@
+Napisati funkciju sortiraj koja slaze po velicini niz realnih brojeva,pri cemu dimenzija niza nije unaprijed poznata nego predstavlja jedan od parametara funkcije.Pri rjesavanju zadatka obavezno koristit ppokazivacku aritmetiku.

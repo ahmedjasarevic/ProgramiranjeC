@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+<<<<<<< HEAD
+1597833132 source:c:\users\ahmed\desktop\stringovi\zadatak 13\zadatak 13\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+=======
+1596968542 source:c:\users\ahmed\desktop\pokazivaci\zadatak 13\zadatak 13\main.c
+	<stdio.h>
+>>>>>>> Pokazivaci/master
+
